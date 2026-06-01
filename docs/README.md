@@ -1,3 +1,13 @@
-# Documentation
+# ECU Documentation
 
-ECU database notes and changelog.
+This folder contains ECU database documentation.
+
+## Documents
+
+- changelog.md
+- ecu-list.md
+- protocol-list.md
+
+## Purpose
+
+Store ECU IDs, protocols, compatibility notes, and release history.
